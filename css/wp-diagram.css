@@ -1,0 +1,34 @@
+/* Timepicker */
+.ui-timepicker-div .ui-widget-header { margin-bottom: 8px; }
+.ui-timepicker-div dl { text-align: left; }
+.ui-timepicker-div dl dt { height: 25px; margin-bottom: -25px; }
+.ui-timepicker-div dl dd { margin: 0 10px 10px 65px; }
+.ui-timepicker-div td { font-size: 90%; }
+.ui-tpicker-grid-label { background: none; border: none; margin: 0; padding: 0; }
+
+.wp-diagram .misc-pub-section { line-height:26px; }
+.position-datetime-wrap { display:block; clear:both; margin:5px 0 0 0; }
+.position-datetime { display:none; }
+.position-datetime-wrap .timestamp-wrap,
+.position-datetime-wrap p { position:relative; display:inline-block; margin:0; }
+.position-datetime-wrap .cancel-timestamp { display:none; }
+
+.wp-diagram ul { margin:0; }
+.wp-diagram .post { position:relative; margin:0; padding:0; border-bottom:1px solid #DFDFDF; border-top:1px solid #FFFFFF; padding:9px 7px 11px; vertical-align:top; line-height:1.4em; }
+.wp-diagram .post .info { padding-left:30px; }
+.wp-diagram .post .trash a { color:#BC0B0B; }
+.wp-diagram .post .trash a:hover { color:#FF0000; }
+.wp-diagram .posts .ui-sortable-helper { border:1px solid #CCCCCC; background-color:#FFFFFF; }
+.wp-diagram .posts .ui-state-highlight { background:#FFE49A; display:block; height:60px; }
+.wp-diagram .thumbnail { float:left; }
+.wp-diagram .post-thumbnail-icon { display:block; width:16px; height:16px; overflow:hidden; background-repeat:no-repeat; }
+.wp-diagram .post-thumbnail-icon-enabled { background-position:0 0; }
+.wp-diagram .post-thumbnail-icon-disabled { background-position:0 -24px; }
+.wp-diagram .thumbnail-preview { position:absolute; z-index:2; left:-55px; top:-55px; background:#F5F5F5; padding:5px; border:1px solid #DFDFDF; border-radius:3px; box-shadow:0 0 5px #CCCCCC; display:none; }
+.wp-diagram .position-post-excerpt { display:block; clear:both; font-size:11px; }
+.wp-diagram .position-post-excerpt p { padding:0; margin:3px 0; }
+
+.wp-diagram .inline-edit-row { display:none; }
+.wp-diagram .inline-edit-row fieldset { float:none !important; }
+
+
